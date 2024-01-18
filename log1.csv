@@ -3,3 +3,7 @@ V,can_jxps.main.working.heartbeat,39.113,TIM_ServiceCall,../App/CAN_JXPS/Src/can
 V,can_jxps.main.working.heartbeat,39.113,TIM_ServiceCall,../App/CAN_JXPS/Src/can_jxps.c,266,JXPS_CAN_Heartbeat_Event,发送心跳
 V,can_jxps.main.working.heartbeat,2030.310,TIM_ServiceCall,../App/CAN_JXPS/Src/can_jxps.c,266,JXPS_CAN_Heartbeat_Event,发送心跳
 V,can_jxps.main.watchdog.any.return,2.994,TIM_ServicTask,../App/CAN_JXPS/Src/can_jxps_host.c,58,JXPS_CAN_HOST_INIT,设备数量过少
+V,can_jxps.main.working.heartbeat,39.113,TIM_ServiceCall,../App/CAN_JXPS/Src/can_jxps.c,266,JXPS_CAN_Heartbeat_Event,发送心跳
+V,can_jxps.main.working.heartbeat,39.113,TIM_ServiceCall,../App/CAN_JXPS/Src/can_jxps.c,266,JXPS_CAN_Heartbeat_Event,发送心跳
+V,can_jxps.main.working.heartbeat,2030.310,TIM_ServiceCall,../App/CAN_JXPS/Src/can_jxps.c,266,JXPS_CAN_Heartbeat_Event,发送心跳
+V,can_jxps.main.watchdog.any.return,2.994,TIM_ServicTask,../App/CAN_JXPS/Src/can_jxps_host.c,58,JXPS_CAN_HOST_INIT,设备数量过少
