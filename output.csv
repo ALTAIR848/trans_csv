@@ -1,0 +1,3 @@
+消息类型,TAG标记,上电后经过的秒数,RTOS的线程名称,文件路径,行号,函数名称,日志内容
+V,can_jxps.main.working.heartbeat,39.113,TIM_ServiceCall,../App/CAN_JXPS/Src/can_jxps.c,266,JXPS_CAN_Heartbeat_Event,发送心跳
+V,can_jxps.main.working.heartbeat,39.113,TIM_ServiceCall,../App/CAN_JXPS/Src/can_jxps.c,266,JXPS_CAN_Heartbeat_Event,发送心跳
